@@ -4,6 +4,8 @@ Unreal Engine 4.27
 
 ## Unreal Engine default font
 
+`FCoreStyle::GetDefaultFont()`
+
 `LegacySlateFontInfoCache.cpp`
 
 `FLegacySlateFontInfoCache::GetDefaultFont()`
