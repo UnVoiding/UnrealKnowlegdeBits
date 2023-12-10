@@ -12,7 +12,7 @@ Unreal Engine 4.27
 
 &nbsp;
 
-EngineContentDir = (example) c:\Program Files\Epic Games\UE_4.27\Engine\Content\
+EngineContentDir = (example) c:/Program Files/Epic Games/UE_4.27/Engine/Content/
 
 &nbsp;
 
