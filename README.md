@@ -2,4 +2,4 @@
 
 Unreal Engine 4.27
 
-The content in in the wiki section
+The content is in the wiki section
